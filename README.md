@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ych3star/ych3star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/ych3star/ych3star/main/banner.jpg" alt="banner" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I'm currently working on **something awesome**
+- 🌱 I'm currently learning **new technologies every day**
+- 💬 Ask me about **coding, open source, and everything in between**
+- ⚡ Fun fact: **I turn coffee into code**
+
+---
+
+### 📊 
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+---
+
+### 🐍 Snake eating my contributions
+
+<div align="center">
+
+---
+
+<div align="center">
